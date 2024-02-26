@@ -345,4 +345,10 @@ form.contactForm .btn:hover {
     margin-left: 6rem;
     
 }
+.row.no-gutters {
+    margin-top: 6rem;
+}
+.row.justify-content-center {
+    margin-top: 3rem;
+}
 /* start my css */
